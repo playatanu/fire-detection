@@ -1,0 +1,6 @@
+train: .{your_dataset_dir}/train/images
+val: .{your_dataset_dir}/valid/images
+test: .{your_dataset_dir}/test/images
+
+nc: 1
+names: ['0']
